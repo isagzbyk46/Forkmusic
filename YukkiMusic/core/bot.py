@@ -1,9 +1,9 @@
 #
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/isagzbyk46/Forkmusic > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/isagzbyk46/Forkmusic/blob/master/LICENSE >
 #
 # All rights reserved.
 
@@ -34,7 +34,7 @@ class YukkiBot(Client):
         self.id = get_me.id
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, "Bot Started"
+                config.LOG_GROUP_ID, "Bot Çalışmaya Başladı"
             )
         except:
             LOGGER(__name__).error(
