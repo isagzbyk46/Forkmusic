@@ -3,7 +3,7 @@
 #
 # This file is part of < https://github.com/Forkmusic/YukkiMusicBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/isagzbyk46/Forkmusic/blob/master/Licence >
+# Please see < https://github.com/isagzbyk46/Forkmusic/blob/master/LİCENSE >
 #
 # All rights reserved.
 
